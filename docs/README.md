@@ -11,7 +11,7 @@ This project involves the development of a machine learning solution to optimize
 - [Overview Solution Approach](#overview-solution-approach)
 - [Dataset + Config](#dataset--config)
 - [Features](#features)
-- [Modeling](#modeling)
+- [Modeling + Tests](#modeling--tests)
 - [References](#references)
 
 ## Problem Statement
