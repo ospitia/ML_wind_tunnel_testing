@@ -1,0 +1,24 @@
+black
+flake8
+ipython
+isort
+jupyterlab
+loguru
+matplotlib
+mkdocs
+notebook
+toml
+numpy
+pandas
+scikit-learn
+ortools
+pip
+python-dotenv
+tqdm
+openpyxl
+typer
+mypy
+pytest
+Sphinx
+pre-commit
+-e .
