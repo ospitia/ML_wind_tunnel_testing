@@ -8,8 +8,9 @@ This project is designed for a wind tunnel testing experiment. It focuses on:
 
 **Surrogate Modeling**: Building and evaluating surrogate models based on wind tunnel data.
 
-**Optimization**: Determining optimal configurations for wind tunnel experiments and sensor placements to maximize efficiency and accuracy.
+**Optimization**: Determining optimal configurations for wind tunnel experiments and sensor selection while maintaining efficiency and accuracy.
 
+Code publicly available at https://github.com/ospitia/ML_wind_tunnel_testing.git
 ## Project setting
 ```Bash
 conda create -n ML_wind_tunnel_testing python=3.11
@@ -26,9 +27,16 @@ pre-commit install
 ```
 
 ## Run examples
+Ensure you have the data file ./data/raw/ML_test.xlsx and run
 ```Bash
 python examples
 ```
+Reports will be written in ./reports/ML_test.xlsx
+
+## Additional Documentation
+
+For detailed information about the algorithms and optimization techniques used in this project, refer to the [Documentation](./docs/README.md).
+
 ## Project Organization
 
 ```
