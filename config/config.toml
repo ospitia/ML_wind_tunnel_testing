@@ -1,0 +1,6 @@
+# seed random generations
+random_state = 42
+
+# model params
+[random_forest]
+n_estimators = 100

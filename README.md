@@ -20,8 +20,14 @@ conda activate ML_wind_tunnel_testing
 ```Bash
 pip install -r requirements.txt
 ```
+#### optional for development
 ```Bash
 pre-commit install
+```
+
+## Run examples
+```Bash
+python examples
 ```
 ## Project Organization
 
