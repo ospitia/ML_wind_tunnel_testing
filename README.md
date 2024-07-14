@@ -10,7 +10,6 @@ This project is designed for a wind tunnel testing experiment. It focuses on:
 
 **Optimization**: Determining optimal configurations for wind tunnel experiments and sensor selection while maintaining efficiency and accuracy.
 
-Code publicly available at https://github.com/ospitia/ML_wind_tunnel_testing.git
 ## Project setting
 ```Bash
 conda create -n ML_wind_tunnel_testing python=3.11
